@@ -1,0 +1,15 @@
+PROJECT_NAME           = "Standard Release"
+OUTPUT_DIRECTORY       = /home/alex/Projects/standard-release/build/docs
+INPUT                  = /home/alex/Projects/standard-release/src/
+FILE_PATTERNS          = *.h
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+GENERATE_DOCSET        = NO
+GENERATE_LATEX         = NO
+GENERATE_MAN           = NO
+GENERATE_XML           = NO
+USE_MDFILE_AS_MAINPAGE = /home/alex/Projects/standard-release/docs/index.md
+
+# https://github.com/apache/mesos/blob/master/Doxyfile
+# https://github.com/apache/mesos/tree/master/docs
+# https://mesos.readthedocs.io/en/latest/doxygen-style-guide/

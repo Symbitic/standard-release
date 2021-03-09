@@ -1,0 +1,11 @@
+releaseType: node
+
+# Ideas for future use
+github: Symbitic/standardrelease-test
+project: oss-automation
+secretId: node-tooling
+primaryBranch: master
+bump:
+  - VERSION.txt
+  - package.json
+  - CMakeLists.txt

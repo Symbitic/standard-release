@@ -1,5 +1,7 @@
 # standard-release
 
+**WARNING: THIS IS NOT YET READY FOR PRODUCTION USE!!!**
+
 A tool for creating and publishing software releases using a simple, standardized workflow.
 
 Completely automates the entire release process using [SemVer](https://semver.org/) and [Conventional Commits](https://www.conventionalcommits.org/).
